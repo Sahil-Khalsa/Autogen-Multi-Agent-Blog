@@ -1,0 +1,14 @@
+# Core AutoGen package (includes agentchat + core modules)
+ag2[openai]
+
+# For loading API keys from .env
+python-dotenv
+
+# Jupyter environment (for running notebooks)
+notebook
+jupyterlab
+
+# Optional: for data analysis / stock data handling
+pandas
+yfinance
+matplotlib
